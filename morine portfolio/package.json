@@ -1,0 +1,21 @@
+{
+  "name": "my-personal-portfolio",
+  "version": "1.0.0",
+  "description": "A sample project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0",
+    "stream-http": "^3.0.0",
+    "path-browserify": "^1.0.0",
+    "buffer": "^6.0.0",
+    "url": "^0.11.0"
+  }
+}
